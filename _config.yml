@@ -1,3 +1,6 @@
-name: Your New Jekyll Site
+name: Zrcadlo Scripture
+title: Zrcadlo
+tagline: A Cult of Mirrors
+description: The unholy canon of the Self
 markdown: redcarpet
-pygments: true
+pygments: false
