@@ -4,3 +4,5 @@ tagline: A Cult of Mirrors
 description: The unholy canon of the Self
 markdown: redcarpet
 pygments: false
+paginate: 5
+permalink: pretty
