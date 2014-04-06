@@ -15,6 +15,8 @@ Herein we have a repository to ultra-nerdly manage the unholy canon of Zrcadlo. 
 
 To add a post, simply add a new file to the `_posts` directory following the following naming convention: `YEAR-MONTH-DAY-title.markdown` (the extension can also be `.textile`). 
 
+The convention is to use [](markdown) for editing posts; given the simplicity and visual feedback, it doesn't need fancy editors. However, I've used [vim](http://www.vim.org/) with markdown syntax highlighting and [Mou](http://mouapp.com/) in the past. 
+
 ## Customizing
 
 The base of the customization lays in the layouts (within the `_layouts` folder), and uses [Liquid](http://wiki.shopify.com/Liquid) templates to add dynamic elements. More info on customizing can be found in the official [jekyll documentation](http://jekyllrb.com/docs/templates/). 
